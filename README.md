@@ -55,4 +55,4 @@ est cases are in `test-cases` directory and covers login and signup functionalit
 
 ## Usage
 
-    python3 -m robot -v PLATFORM_NAME:ios -i Smoke -d results test-cases
+    python3 -m robot -v PLATFORM_NAME:android -i Smoke -d results test-cases
